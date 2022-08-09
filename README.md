@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:iphone: Telegram: [@nteir](https://t.me/nteir)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nteir)](https://github.com/nteir/github-readme-stats)
+
 <!--
 **nteir/nteir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
